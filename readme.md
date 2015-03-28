@@ -1,7 +1,7 @@
 # Hand Gesture System
 
 ## Description
-This is a simple application which is written in C++ using openCV. I had this for my final year college project as a Proof Of Concept. I am putting it on GitHub so that someone much (much^3) better than me will improve the code, make it better.
+This is a simple application which is written in C++ using openCV. I had this made for my final year college project as a Proof Of Concept. I am pushing this onto GitHub, so that someone awesome and way better than me will improve the code, make it better.
 
 ##Installation
 
