@@ -1,0 +1,19 @@
+﻿Build started 16-10-2012 23:38:22.
+     1>Project "G:\project\Hand Gesture System\Hand Gesture system\Hand Gesture system\Hand Gesture system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Hand Gesture system.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\project\Hand Gesture System\Hand Gesture system\Debug\Hand Gesture system.exe" /INCREMENTAL /NOLOGO opencv_calib3d242d.lib opencv_contrib242d.lib opencv_core242d.lib opencv_features2d242d.lib opencv_flann242d.lib opencv_gpu242d.lib opencv_haartraining_engined.lib opencv_highgui242d.lib opencv_imgproc242d.lib opencv_legacy242d.lib opencv_ml242d.lib opencv_nonfree242d.lib opencv_objdetect242d.lib opencv_photo242d.lib opencv_stitching242d.lib opencv_ts242d.lib opencv_video242d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Hand Gesture system.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\project\Hand Gesture System\Hand Gesture system\Debug\Hand Gesture system.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\project\Hand Gesture System\Hand Gesture system\Debug\Hand Gesture system.lib" /MACHINE:X86 "Debug\Hand Gesture system.exe.embed.manifest.res"
+         "Debug\Hand Gesture system.obj"
+         Debug\stdafx.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "G:\project\Hand Gesture System\Hand Gesture system\Hand Gesture system\Hand Gesture system.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31

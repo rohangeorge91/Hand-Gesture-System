@@ -1,0 +1,60 @@
+-------------------------------------------------------------------------------------------------------------
+Read me !
+
+By Verghese koshy Puthukkeril
+-------------------------------------------------------------------------------------------------------------
+
+
+The disk contains four folders 
+
+1>Ready to Run application
+2>Document Report
+3>Developer Softwares
+4>Dependency Tools
+
+
+
+1> Ready to Run Application
+---------------------------
+
+This contains all the necessary files and dll to execute the program. To run the program 
+
+click on >> Hand Gesture system.exe >> this will launch the application 
+
+<> Show you fist onto the system camera to get a lock on it move it by a small margin from the
+blue rectangle to displace the mouse.
+
+<> For single left click show you palm in a relaxed way. 
+
+<> To exit the application goto any active camera display window and hit excape on the keyboard.
+
+
+
+
+2>Document Report
+-----------------
+
+Consists of the main report of the given project in pdf format (Report.pdf), The presentation for the project
+(Presentation.pptx) and the reference papers which were used in the project report.
+
+
+
+
+3>Developer software
+--------------------
+
+<> Install the visual studio. You can use setup_magicdisc.exe to mount the new disk.
+<> Install opencv using the cmake.exe, opencv.exe and tbb4.1.exe
+<> Install boost.exe
+<> Open the project file inside "x:\Developer Software\Hand Gesture system\Hand Gesture system.sln"
+<> Finally link the lib,include,bin and dll to the project path as per current work directory.
+
+
+
+
+4>Dependency Tools
+------------------
+
+<> Using this and run the hand.exe in the Ready to Run Application folder, after which you will see
+all dependency of dll required by the application. This can be used if the current available dll doesnot
+suffice for the program execution.
